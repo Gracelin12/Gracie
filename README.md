@@ -55,4 +55,23 @@ By using object-fit: cover; and flexible widths, the slider adapts well to diffe
 🚀 Live Demo
 
 🔗 View the project live here:
-👉 https://Gracelin12.github.io/ibm-fe-dynamic-image-slider/
+👉https://gracelin12.github.io/Gracie/
+---
+👩‍💻 Author
+
+Name: R.Gracelin 
+GitHub Profile:https://github.com/Gracelin12/Gracie
+Project Title: IBM - FE Dynamic Image Slider
+Program: IBM SkillsBuild - Front-End Web Development
+
+---
+
+🏷️ License
+
+This project is created for educational purposes as part of the
+IBM SkillsBuild Front-End Development Program.
+ 
+---
+
+⭐ Thank you for visiting this project!
+If you found this useful, consider giving the repository a star 🌟 on GitHub.
